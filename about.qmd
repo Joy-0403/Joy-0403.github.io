@@ -2,4 +2,14 @@
 title: "About"
 ---
 
-About this site
+About Me
+
+Welcome to my website! My name is Wei Zhou (Joy), and I am currently pursuing the Master of Data Science (MDS) program at the University of British Columbia, with a focus on Natural Language Processing (NLP).
+
+Before graduate school, I worked as a Business Analyst at Nielsen, Didi Global, and Baidu Inc., where I specialized in delivering data analysis and visualization for operations teams. My work involved building dashboards and automated reports, designing experiments and performance metrics, and applying statistical modeling to support decision-making. These efforts helped teams identify growth opportunities, improve operational efficiency, and make data-driven business decisions.
+
+Beyond academics and work, I am passionate about the outdoors—skiing, camping, and any activity that brings me closer to nature. Time spent outdoors allows me to recharge, slow down, and often sparks new ideas and perspectives.
+
+I am also a coffee enthusiast. During my time working part-time at Starbucks, I learned how to craft a latte with latte art—a skill I would be delighted to demonstrate someday.
+
+This website serves as a space to document my learning journey, showcase my projects, and share insights from my studies. I hope it offers you a deeper understanding of my areas of expertise and interests. Please feel free to explore further and connect with me through the contact information provided.
